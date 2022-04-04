@@ -4,8 +4,8 @@ what works for gh to recognize:
 - c_o_c.md
 - c o c.md (but has ugly url, `%20`).
 - COC.md
+- C-o-c
 
 what does not:
-- c-o-c.md
 
-oh wait it does now? wat weird. is this path-dependent?
+[other words than "code of conduct"]
