@@ -7,3 +7,5 @@ what works for gh to recognize:
 
 what does not:
 - c-o-c.md
+
+oh wait it does now? wat weird. is this path-dependent?
